@@ -1,0 +1,5 @@
+server:
+  port: 9000
+
+service:
+  failure-rate: 0.3
